@@ -8,7 +8,11 @@
 
 
 ✅ Language: JavaScript, Typescript and C++.
+
 ✅ Frontend Technology: React.js, Next.js.
+
 ✅ Backend Technology: Node.js, Express.js, Nest.js, Rest API, GraphQL API.
+
 ✅ Database: MongoDB & Mongoose, MySQL & TypeORM.
+
 ✅ Competitive Programming: Experience in C++.
