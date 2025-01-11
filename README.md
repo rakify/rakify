@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rakib Miah
   
-- 👀 I’m interested in software/web development and building mobile apps using React Native
+- 👀 I’m interested in software/web development
 - 🌱 I’m currently working as a Software Engineer at MoveOn Technologies Ltd.
-- 💞️ I’m looking to collaborate on any web development project or react native project
+- 💞️ I’m looking to collaborate on any web development project
   
 - 📫 How to reach me: email - irakibm@gmail.com
 
